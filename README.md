@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kavinkumars21&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kavinkumars21&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumars21&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=kavinkumars21&bg_color=22272e&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=kavinkumars21&bg_color=011627&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ---
 [![](https://komarev.com/ghpvc/?username=kavinkumars21&&style=flat-square)](https://visitcount.itsvg.in)
