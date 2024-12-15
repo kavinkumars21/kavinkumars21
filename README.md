@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kavinkumars21&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkumars21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 📈 GitHub Graph
-![](https://github-readme-activity-graph.cyclic.app/graph?username=kavinkumars21&bg_color=040f0f&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavinkumars21&bg_color=000000&color=ffffff&line=fd6d6d&point=79751b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kavinkumars21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
